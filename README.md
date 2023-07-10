@@ -49,5 +49,3 @@ A seguir, apresentamos algumas imagens que ilustram a estrutura do seu projeto:
    <p align="center">
      <img src="./media/layout_view.png" alt="Exemplo de Composição de Regiões">
    </p>
-
-Sinta-se à vontade para compartilhar as imagens e o gif do seu projeto para uma melhor compreensão e visualização da sua aplicação.
